@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaCastException", "AvaloniaCastException\AvaloniaCastException.csproj", "{3BD12820-753E-4333-A9F8-C45373A92083}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AvaloniaCastException.Desktop", "AvaloniaCastException.Desktop\AvaloniaCastException.Desktop.csproj", "{4BFE58BC-18B9-43CC-AF97-3FE9F199AA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD12820-753E-4333-A9F8-C45373A92083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD12820-753E-4333-A9F8-C45373A92083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD12820-753E-4333-A9F8-C45373A92083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD12820-753E-4333-A9F8-C45373A92083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BFE58BC-18B9-43CC-AF97-3FE9F199AA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFE58BC-18B9-43CC-AF97-3FE9F199AA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFE58BC-18B9-43CC-AF97-3FE9F199AA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFE58BC-18B9-43CC-AF97-3FE9F199AA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F5FA3E4-628C-4E13-A0E0-8009531C05D3}
+	EndGlobalSection
+EndGlobal
